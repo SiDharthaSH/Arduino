@@ -2,4 +2,4 @@
 
 Here I store snippets from my arduino projects. 
 
-![Image](/ObstructionSonarPrototype/sonar mode.png)
+![Image](./ObstructionSonarPrototype/sonar%20mode.png)
